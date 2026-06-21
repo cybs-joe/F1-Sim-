@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/f1sim.dir/link.d CMakeFiles/f1sim.dir/src/main.cpp.o CMakeFiles/f1sim.dir/src/race.cpp.o CMakeFiles/f1sim.dir/src/strategy.cpp.o -o f1sim
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/f1sim.dir/link.d CMakeFiles/f1sim.dir/src/main.cpp.o CMakeFiles/f1sim.dir/src/race.cpp.o CMakeFiles/f1sim.dir/src/strategy.cpp.o -o f1sim  /usr/lib/libcurl.so /usr/lib/libcurl.so

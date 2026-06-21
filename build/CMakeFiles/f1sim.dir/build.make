@@ -128,6 +128,8 @@ f1sim: CMakeFiles/f1sim.dir/src/race.cpp.o
 f1sim: CMakeFiles/f1sim.dir/src/strategy.cpp.o
 f1sim: CMakeFiles/f1sim.dir/build.make
 f1sim: CMakeFiles/f1sim.dir/compiler_depend.ts
+f1sim: /usr/lib/libcurl.so
+f1sim: /usr/lib/libcurl.so
 f1sim: CMakeFiles/f1sim.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/j0esec/f1-sim/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable f1sim"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/f1sim.dir/link.txt --verbose=$(VERBOSE)
